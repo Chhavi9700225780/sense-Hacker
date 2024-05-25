@@ -22,14 +22,7 @@ The story of the project is pretty interesting. There's an anonymous hacker out 
 
 ## 🚩 Landing Page :
 
-<div class="row">
-  <div class="column">
-    <img src="/assets/img/documentation/1.png" height="200px">
-  </div>
-  <div class="column">
-    <img src="/assets/img/documentation/2.png" height="200px" >
-  </div>
-</div>
+
 <div class="row">
   <div class="column">
     <img src="/assets/img/documentation/3.png" height="200px">

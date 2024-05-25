@@ -41,30 +41,12 @@ The story of the project is pretty interesting. There's an anonymous hacker out 
 
 ## 🚩 Gaming Panel
 
-<div class="row">
+
   <div class="column">
     <img src="/assets/img/documentation/dashboard.png" height="200px">
   </div>
-  <div class="column">
-    <img src="/assets/img/documentation/question.png" height="200px" >
-  </div>
-</div>
-<div class="row">
-  <div class="column">
-    <img src="/assets/img/documentation/userCorrect.png" height="200px">
-  </div>
-  <div class="column">
-    <img src="/assets/img/documentation/userWrong.png" height="200px">
-  </div>
-</div>
-<div class="row">
-  <div class="column">
-    <img src="/assets/img/documentation/userWins.png" height="200px">
-  </div>
-  <div class="column">
-    <img src="/assets/img/documentation/hackerWins.png" height="200px">
-  </div>
-</div>
+ 
+
 
 ## 📌 Demo Video
 

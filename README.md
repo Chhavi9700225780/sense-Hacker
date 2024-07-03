@@ -12,7 +12,7 @@
 
 ## 📌 About the project :
 
-This project was intentionally built for the SSOC Hackathon. This project is helpful for gaining awareness about keeping yourself safe in the cyber space and get out of the zone of becomming an easy target
+This project was intentionally built for the Fun. This project is helpful for gaining awareness about keeping yourself safe in the cyber space and get out of the zone of becomming an easy target
 
 ## 📌 Story of the project :
 
